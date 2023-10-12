@@ -1,4 +1,12 @@
+body {
+    text-align: center;
+}
+
 h1 {
     color: chartreuse;
-    text-align: center;
+  }
+
+  p {
+    color: blueviolet;
+    font-family: cursive;
   }
